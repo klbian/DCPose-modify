@@ -8,7 +8,7 @@
 
 故对其进行修改，将检测器换为YOLOv8，可以在python-3.8.18，torch-1.13.1，CUDA-11.7，Windows 11，NVIDIA 3050Ti上运行，效果如下：
 
-![1]("https://github.com/klbian/DCPose-modify/blob/main/1.gif")
+![1](1.gif)
 
 
 
