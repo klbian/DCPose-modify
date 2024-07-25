@@ -8,7 +8,11 @@
 
 故对其进行修改，将检测器换为YOLOv8，可以在python-3.8.18，torch-1.13.1，CUDA-11.7，Windows 11，NVIDIA 3050Ti上运行，效果如下：
 
-![1 -middle-original](1 -middle-original.gif)
+![00000081](00000081.jpg)
+
+![1](1.gif)
+
+
 
 
 
@@ -16,4 +20,9 @@
 
 ![structure](structure.png)
 
+
+
+
+
 注：对该模型的修改仅为了更好地理解模型结构和姿态估计思路
+
